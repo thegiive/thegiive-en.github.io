@@ -49,6 +49,16 @@ layout: default
   </header>
 
   <div class="post-content">
+    {% if page.lang == "en" %}
+      {% assign orig_path = page.permalink | default: page.url | replace_first: "/en", "" %}
+      {% assign original_zh = page.original_zh | default: "https://wiselychen.com" | append: orig_path %}
+      <blockquote>
+        <strong>Disclaimer</strong>: This post is machine-translated from the original Chinese article:
+        <a href="{{ original_zh }}">{{ original_zh }}</a><br>
+        The original work is written in Chinese; the English version is translated by AI.
+      </blockquote>
+    {% endif %}
+
     {{ content }}
   </div>
 

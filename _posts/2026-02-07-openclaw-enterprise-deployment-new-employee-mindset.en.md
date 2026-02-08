@@ -9,9 +9,6 @@ lang: en
 original_zh: "https://wiselychen.com/openclaw-enterprise-deployment-new-employee-mindset/"
 ---
 
-> **Disclaimer**: This post is machine-translated from the original Chinese article: https://wiselychen.com/openclaw-enterprise-deployment-new-employee-mindset/  
-> The original work is written in Chinese; the English version is translated by AI.
-
 ## At first, I didn’t dare to put OpenClaw inside the company network
 
 Honestly, when you see such a powerful tool, it’s hard not to want to use it immediately.
