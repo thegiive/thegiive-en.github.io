@@ -6,7 +6,11 @@ permalink: /en/openclaw-enterprise-deployment-new-employee-mindset/
 image: /assets/images/openclaw-security-isolation-cover.png
 description: "At first, I didn’t dare to put OpenClaw inside the company network. Then I changed my framing: treat it like a new hire. Employee accounts, permission requests, code-level guardrails, manual email filtering—manage AI the same way you manage a junior employee."
 lang: en
+original_zh: "https://wiselychen.com/openclaw-enterprise-deployment-new-employee-mindset/"
 ---
+
+> **Disclaimer**: This post is machine-translated from the original Chinese article: https://wiselychen.com/openclaw-enterprise-deployment-new-employee-mindset/  
+> The original work is written in Chinese; the English version is translated by AI.
 
 ## At first, I didn’t dare to put OpenClaw inside the company network
 
