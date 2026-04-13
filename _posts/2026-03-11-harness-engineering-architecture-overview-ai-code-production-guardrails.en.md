@@ -8,6 +8,8 @@ description: "Amazon let AI fix a bug; AI deleted the entire production environm
 lang: en
 ---
 
+> 📝 Originally written in Chinese. [Read the original →](https://ai-coding.wiselychen.com/harness-engineering-architecture-overview-ai-code-production-guardrails/)
+
 
 > Amazon let AI fix a bug; AI deleted the entire production environment. DataTalks.Club got its whole database wiped by AI. An e-commerce team lost millions of orders to an AI change. Three incidents, one pattern: reset → rebuild → clean state. When AI hits a complex problem, it instinctively picks "the cleanest solution" — which for production systems is a disaster. The question was never "can AI write code?" It's "is your system ready to catch AI?" This post uses one architecture diagram to explain Harness Engineering end-to-end: from Amazon's ban to OpenAI's Control Plane, from three-layer defense to the seven-component reference architecture, from five failure modes to three things your team can start tomorrow.
 

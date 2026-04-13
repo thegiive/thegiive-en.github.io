@@ -8,6 +8,8 @@ description: "Lunar New Year 2026 saw China's open-source LLMs go off all at onc
 lang: en
 ---
 
+> 📝 Originally written in Chinese. [Read the original →](https://ai-coding.wiselychen.com/china-ai-models-2026-lunar-new-year-comparison/)
+
 **Author:** Wisely Chen
 **Date:** February 2026
 **Series:** AI Agent Complete Guide / IT Architecture Series

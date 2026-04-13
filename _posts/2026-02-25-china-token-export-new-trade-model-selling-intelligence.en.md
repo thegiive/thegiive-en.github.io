@@ -8,6 +8,8 @@ description: "China's AI export is undergoing a qualitative shift—from selling
 lang: en
 ---
 
+> 📝 Originally written in Chinese. [Read the original →](https://ai-coding.wiselychen.com/china-token-export-new-trade-model-selling-intelligence/)
+
 Last week I wrote two articles—one was [a deep dive on the GLM-5 technical report](/glm-5-vibe-coding-to-agentic-engineering-technical-report/), and the other was [the Anthropic distillation war](/anthropic-distillation-war-everyone-steals-from-everyone/).
 
 After writing them, one thing kept nagging at me: **if GLM-5 really wasn't distilled, and if it was trained entirely on Huawei chips, and if its API is priced at one-fifth of Opus—what does that actually mean?**

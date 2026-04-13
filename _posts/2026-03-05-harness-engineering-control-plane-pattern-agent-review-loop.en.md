@@ -8,6 +8,8 @@ description: "3 OpenAI engineers shipped 1 million lines of code in 5 months usi
 lang: en
 ---
 
+> 📝 Originally written in Chinese. [Read the original →](https://ai-coding.wiselychen.com/harness-engineering-control-plane-pattern-agent-review-loop/)
+
 ![Peter Steinberger's workstation: multiple monitors tracking Agent output simultaneously](/assets/images/harness-engineering-peter-steinberger-workstation.png)
 
 ## First, the source: what exactly is OpenAI's Harness Engineering?

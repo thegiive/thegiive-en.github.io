@@ -8,6 +8,8 @@ description: "A 9B model beating last-gen 80B, and even challenging OpenAI's 120
 lang: en
 ---
 
+> 📝 Originally written in Chinese. [Read the original →](https://ai-coding.wiselychen.com/qwen-3-5-9b-small-model-god-tier-architecture/)
+
 ![Qwen 3.5-9B Benchmark Comparison](/assets/images/qwen-3-5-9b-benchmark-comparison.jpeg)
 
 **Author:** Wisely Chen
