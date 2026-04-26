@@ -8,7 +8,13 @@ description: "Columbia's AgentOpt paper ran 9 models in 81 combinations and prov
 lang: en
 ---
 
-> 📝 Originally written in Chinese. [Read the original →](https://ai-coding.wiselychen.com/agentopt-expensive-model-wrong-position-pipeline-optimization/)
+> 📝 **Translation Note**
+>
+> This article is translated from the Chinese original. The author writes primarily in Traditional Chinese, and the original version is the canonical source — including the latest updates, comments, and follow-up discussions.
+>
+> 👉 **Read the Chinese original:** [「Opus 太聰明，所以它不該做 Planning」——一篇論文顛覆 Agent Ops 範式](https://ai-coding.wiselychen.com/agentopt-expensive-model-wrong-position-pipeline-optimization/)
+>
+> If you spot any translation errors or have feedback, please refer to the Chinese version as the source of truth.
 
 ![AgentOpt Paper: Client-Side Optimization for LLM-Based Agent](/assets/images/agentopt-paper-cover.png)
 
