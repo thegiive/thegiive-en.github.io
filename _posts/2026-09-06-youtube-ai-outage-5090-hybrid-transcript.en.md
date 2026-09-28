@@ -15,7 +15,7 @@ tags:
   - OpenAI
   - xAI
   - hybrid cloud
-  - 5090
+  - "5090"
   - Qwen
   - BCP
   - fault tolerance
